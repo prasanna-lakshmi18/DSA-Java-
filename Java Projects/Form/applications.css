@@ -1,0 +1,26 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root {
+    -fx-padding: 20;
+    -fx-background-color: #ffffff;
+}
+
+.text-field,
+.password-field {
+    -fx-background-color: #f8f8f8;
+    -fx-padding: 5;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 4;
+}
+
+.button {
+    -fx-background-color: #007acc;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 5 15 5 15;
+    -fx-border-radius: 4;
+}
+
+.label {
+    -fx-padding: 5;
+}
